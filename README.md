@@ -1,6 +1,6 @@
 # otel-golang-meetup
 
-## Run
+## Instructions to get started and follow along
 
 Run the executable with the following required environment variables
 
