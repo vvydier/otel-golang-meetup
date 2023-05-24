@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1kElmZfLCjW8kcn5hS2y_Xx5HWIQKkeAWIBZNDV6I
 
 ### Opentelemetry collector, Prometheus and Zipkin running locally as a docker images
 
-1. Run docker: This will start otel-collector, Zipkin and Prometheus
+1. Run docker from otel-docker directory: This will start otel-collector, Zipkin and Prometheus
 
     ```shell script
     # from this directory
